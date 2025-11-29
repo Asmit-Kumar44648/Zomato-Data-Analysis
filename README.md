@@ -1,5 +1,4 @@
-# Zomato-Data-Analysis
-# Zomato Bangalore Restaurants: Exploratory Data Analysis (EDA)
+# Zomato-Data-Analysis(EDA)
 
 ## Project Overview
 This project performs an end-to-end Exploratory Data Analysis (EDA) on a dataset containing over **36,000 restaurant listings** from Zomato in Bangalore, India. The primary goal is to derive actionable business insights that explain consumer behavior, rating distributions, and the success factors of different restaurant types and locations.
